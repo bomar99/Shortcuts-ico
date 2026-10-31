@@ -1,0 +1,2 @@
+# Shortcuts-ico
+Shortcuts ico
